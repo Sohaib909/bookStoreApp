@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Product One",
+      "title": "Elegant Wooden Chair",
+      "price": 49.99,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 2,
+      "name": "Product Two",
+      "title": "Modern Desk Lamp",
+      "price": 29.99,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 3,
+      "name": "Product Three",
+      "title": "Comfortable Sofa",
+      "price": 399.99,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 4,
+      "name": "Product Four",
+      "title": "Stylish Wall Art",
+      "price": 79.99,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 5,
+      "name": "Product Five",
+      "title": "Glass Coffee Table",
+      "price": 199.99,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 6,
+      "name": "Free",
+      "title": "Cozy Bedspread",
+      "price": 59.99,
+      "category": "Bedding",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 7,
+      "name": "Product Seven",
+      "title": "Innovative Kitchen Mixer",
+      "price": 129.99,
+      "category": "Appliances",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 8,
+      "name": "Product Eight",
+      "title": "Outdoor Patio Set",
+      "price": 499.99,
+      "category": "Outdoor",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 9,
+      "name": "Product Nine",
+      "title": "Smart LED TV",
+      "price": 599.99,
+      "category": "Electronics",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    },
+    {
+      "id": 10,
+      "name": "Product Ten",
+      "title": "Ergonomic Office Chair",
+      "price": 249.99,
+      "category": "Furniture",
+      "image": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.868897071.1715948013&semt=ais_hybrid"
+    }
+  ]
+  
